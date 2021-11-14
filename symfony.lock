@@ -361,6 +361,9 @@
     "symfony/orm-pack": {
         "version": "v2.1.0"
     },
+    "symfony/polyfill-intl-grapheme": {
+        "version": "v1.23.1"
+    },
     "symfony/polyfill-intl-icu": {
         "version": "v1.22.1"
     },
@@ -381,6 +384,9 @@
     },
     "symfony/polyfill-php80": {
         "version": "v1.22.1"
+    },
+    "symfony/polyfill-php81": {
+        "version": "v1.23.0"
     },
     "symfony/profiler-pack": {
         "version": "v1.0.5"
@@ -443,6 +449,9 @@
     },
     "symfony/stopwatch": {
         "version": "v4.4.20"
+    },
+    "symfony/string": {
+        "version": "v5.3.10"
     },
     "symfony/translation": {
         "version": "3.3",
